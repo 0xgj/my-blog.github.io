@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on caogj</title>
-    <link>caogj.me/categories/</link>
+    <link>my-blog.github.io/categories/</link>
     <description>Recent content in Categories on caogj</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 12 Mar 2012 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="caogj.me/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="my-blog.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Blog</title>
-      <link>caogj.me/categories/blog/</link>
+      <link>my-blog.github.io/categories/blog/</link>
       <pubDate>Mon, 12 Mar 2012 00:00:00 +0000</pubDate>
       
-      <guid>caogj.me/categories/blog/</guid>
+      <guid>my-blog.github.io/categories/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bullhorn</title>
-      <link>caogj.me/categories/bullhorn/</link>
+      <link>my-blog.github.io/categories/bullhorn/</link>
       <pubDate>Mon, 23 Apr 2012 00:00:00 +0000</pubDate>
       
-      <guid>caogj.me/categories/bullhorn/</guid>
+      <guid>my-blog.github.io/categories/bullhorn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Code</title>
-      <link>caogj.me/categories/code/</link>
+      <link>my-blog.github.io/categories/code/</link>
       <pubDate>Mon, 23 Jan 2012 00:00:00 +0000</pubDate>
       
-      <guid>caogj.me/categories/code/</guid>
+      <guid>my-blog.github.io/categories/code/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Example</title>
-      <link>caogj.me/categories/example/</link>
+      <link>my-blog.github.io/categories/example/</link>
       <pubDate>Fri, 14 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>caogj.me/categories/example/</guid>
+      <guid>my-blog.github.io/categories/example/</guid>
       <description></description>
     </item>
     

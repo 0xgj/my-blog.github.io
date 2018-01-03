@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on caogj</title>
-    <link>caogj.me/tags/</link>
+    <link>my-blog.github.io/tags/</link>
     <description>Recent content in Tags on caogj</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 12 Mar 2012 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="caogj.me/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="my-blog.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>HTML</title>
-      <link>caogj.me/tags/html/</link>
+      <link>my-blog.github.io/tags/html/</link>
       <pubDate>Mon, 12 Mar 2012 00:00:00 +0000</pubDate>
       
-      <guid>caogj.me/tags/html/</guid>
+      <guid>my-blog.github.io/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Juicy</title>
-      <link>caogj.me/tags/juicy/</link>
+      <link>my-blog.github.io/tags/juicy/</link>
       <pubDate>Mon, 23 Jan 2012 00:00:00 +0000</pubDate>
       
-      <guid>caogj.me/tags/juicy/</guid>
+      <guid>my-blog.github.io/tags/juicy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Markdown</title>
-      <link>caogj.me/tags/markdown/</link>
+      <link>my-blog.github.io/tags/markdown/</link>
       <pubDate>Fri, 14 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>caogj.me/tags/markdown/</guid>
+      <guid>my-blog.github.io/tags/markdown/</guid>
       <description></description>
     </item>
     
